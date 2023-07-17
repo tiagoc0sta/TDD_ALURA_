@@ -45,6 +45,11 @@ pytest -v
 - Pytest
 - Coverage
 
+## Demo
+
+
+![image](https://github.com/tiagoc0sta/TDD_ALURA_/assets/63982700/422f84f2-4232-4363-adbc-d3d154dc24b4)
+
 ## Lessons Learned
 
 This repository contains the code and resources for the "Python and TDD: Exploring Unit Tests" course from ALURA.
