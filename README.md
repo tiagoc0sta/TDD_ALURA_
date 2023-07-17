@@ -38,3 +38,14 @@ pytest-cov==4.1.0
 
 This repository contains the code and resources for the "Python and TDD: Exploring Unit Tests" course from ALURA.
 
+On this project I could learn:
+
+- Importance of unit testing.
+- Test-Driven Development (TDD) principles and benefits.
+- Testing frameworks: unittest and pytest.
+- Writing effective test cases.
+- Running and analyzing tests.
+- Test doubles: mocks, stubs, and fakes.
+- Test coverage and code quality.
+- Refactoring and maintaining test suites.
+- Advanced testing techniques and best practice
