@@ -27,6 +27,17 @@
 
 
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`VIRTUAL ENVIRONMENT`
+venv\Scripts\activate
+
+`RUN TESTS`
+pytest -v 
+
+
 ## Features
 
 - TDD 
@@ -42,10 +53,9 @@ On this project I could learn:
 
 - Importance of unit testing.
 - Test-Driven Development (TDD) principles and benefits.
-- Testing frameworks: unittest and pytest.
+- Testing framework pytest.
 - Writing effective test cases.
 - Running and analyzing tests.
-- Test doubles: mocks, stubs, and fakes.
 - Test coverage and code quality.
 - Refactoring and maintaining test suites.
-- Advanced testing techniques and best practice
+- Testing best practices.
